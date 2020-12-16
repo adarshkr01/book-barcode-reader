@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 13px;
+    font-family: "Tahoma", sans-serif;
+    color: #333333;
+}
+
+h1,
+h2,
+h3 {
+    margin: 15px 0px;
+    color: #000000;
+}
+p {
+    margin: 15px 0px;
+}
+
+img {
+    max-width: 500px;
+    border: 1px solid #eeeeee;
+}
+
+.container {
+    width: 900px;
+    margin: 15px auto;
+    padding: 30px;
+    border: 1px solid #eeeeee;
+}
